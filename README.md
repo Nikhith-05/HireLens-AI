@@ -1,7 +1,7 @@
 # HireLens AI
 
 <p align="center">
-  <img src="./frontend/img/text.png" alt="HireLens AI Logo" width="120" />
+  <img src="./frontend/img/text.png" alt="HireLens AI Logo" width="280" />
 </p>
 
 <p align="center">
