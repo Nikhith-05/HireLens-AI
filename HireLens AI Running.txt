@@ -1,0 +1,8 @@
+cd "d:\Projects\HireLens AI"
+pip install -r backend/requirements.txt
+python -m uvicorn backend.main:app --reload --port 8000
+
+
+cd "d:\Projects\HireLens AI\frontend"
+npm install
+npm run dev
