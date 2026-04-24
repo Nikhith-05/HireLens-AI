@@ -1,11 +1,9 @@
 # HireLens AI
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="./frontend/img/text.png" alt="HireLens AI Logo" width="200" />
-=======
+
   <img src="./frontend/img/text.png" alt="HireLens AI Logo" width="280" />
->>>>>>> 294446720ccdc28864920a9e89ecbe183209ade0
+
 </p>
 
 <p align="center">
