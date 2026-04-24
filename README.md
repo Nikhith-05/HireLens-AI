@@ -223,8 +223,9 @@ No extra database setup is required for local development.
 
 Additional project documentation is available here:
 
-- [Project Report](./docs/HireLens_AI_Project_Report.md)
-- [Software Requirements Specification](./docs/HireLens_AI_SRS.md)
+- [Project Report](./docs/Documentation/Hirelens%20Final%20Doc.pdf)
+- [Software Requirements Specification](./docs/Documentation/HireLens%20SRS.pdf)
+- [Project Presentation](./docs/Documentation/HireLens%20PPT.pptx)
 
 ## Roadmap Ideas
 
@@ -237,4 +238,4 @@ Additional project documentation is available here:
 
 ## License
 
-This repository currently does not define a license. Add one before public distribution if needed.
+This project is licensed under the [MIT License](LICENSE).
